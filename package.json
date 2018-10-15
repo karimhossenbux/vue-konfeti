@@ -1,20 +1,21 @@
 {
-  "name": "vue-confettis",
+  "name": "vue-konfeti",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karimhossenbux/vue-confettis.git"
+    "url": "https://github.com/karimhossenbux/vue-konfeti.git"
   },
   "keywords": [
     "vuejs",
     "confetti",
     "component",
-    "vue-component"
+    "vue-component",
+    "konfeti"
   ],
   "author": "Karim Hossenbux <karimhossenbux@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karimhossenbux/vue-confettis/issues"
+    "url": "https://github.com/karimhossenbux/vue-konfeti/issues"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
